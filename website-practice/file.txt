@@ -1,9 +1,5 @@
 line 1
 line 2
 line 3 
-<<<<<<< HEAD
 line 4
 line 6
-=======
-line 4
->>>>>>> parent of 138ce90 (final)
