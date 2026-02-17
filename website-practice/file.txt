@@ -1,4 +1,8 @@
 line 1
+<<<<<<< HEAD
 line 2
 line 3 
 line 4
+=======
+line 2
+>>>>>>> parent of 45e3ee0 (update 1)
